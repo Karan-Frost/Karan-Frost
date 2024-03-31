@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Hellow%20World%20&fontSize=49&fontAlignY=57&animation=blink&stroke=00008B&strokeWidth=2&fontColor=	A020F0&fontAlign=49&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Hellow%20World%20&fontSize=49&fontAlignY=57&animation=blink&stroke=00008B&strokeWidth=2&fontColor=A020F0&fontAlign=49&section=header"/>
 </p>
 
 <h1 align="center">
@@ -33,5 +33,5 @@ hobbies: ["Football", "Gaming"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=That's%20ALL%20&fontSize=49&fontAlignY=57&animation=scaleIn&fontColor=	FF0000&fontAlign=49&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=That's%20ALL%20&fontSize=49&fontAlignY=57&animation=scaleIn&fontColor=FF0000&fontAlign=49&section=footer"/>
 </p>

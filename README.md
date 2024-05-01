@@ -9,7 +9,7 @@
 ```yaml
 name: Frost
 located_in: Patna, Bihar
-current_work: Maintaining Roms
+current_work: Student
 education:
   [
      "Currently studying in school"

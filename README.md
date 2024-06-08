@@ -7,9 +7,8 @@
 </h1>
 
 ```yaml
-name: Frost
+name: Karan
 located_in: Patna, Bihar
-current_work: Student
 education:
   [
      "Currently studying in school"
@@ -18,7 +17,6 @@ education:
 fields_of_interests:
   [
      "Custom Roms"
-     "Developing"
   ]
 
 hobbies: ["Football", "Gaming"]

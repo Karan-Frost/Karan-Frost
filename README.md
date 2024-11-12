@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently working as a maintainer for veux at [VoltageOS](https://github.com/VoltageOS).
 
-- 📲 You can check my contribution to veux [HERE](https://github.com/orgs/veux-frost-testzone/repositories).
-
 - 📫 How to reach me: [Telegram](https://t.me/Under_Frost).
 
 <h3 align="center"> My Stats on Github </h3>

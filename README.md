@@ -10,10 +10,9 @@
 
 <hr>
 
-## My Stats on Github
+## My Stats on GitHub:
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=karan-frost&label=Profile%20views&color=0e75b6&style=flat" alt="karan-frost" /><br/>
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-frost&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=karan-frost&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" /><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-frost&theme=midnight-purple&hide_border=true" /><br/>

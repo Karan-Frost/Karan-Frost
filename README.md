@@ -6,7 +6,21 @@
 <hr>
 
 ## Social:
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/Under_Frost)
+<a align="left" href="https://t.me/Under_Frost">
+        <img src="https://custom-icon-badges.demolab.com/badge/Under_Frost-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<hr>
+
+## Languages and tools I know:
+<img alt="python" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="HTML" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="Linux" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img alt="Android" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+<img alt="Bash" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+
+<br/>
 
 <hr>
 

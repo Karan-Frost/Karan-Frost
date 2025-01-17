@@ -5,15 +5,21 @@
 
 <hr>
 
-## Social:
-<a align="left" href="https://t.me/Under_Frost">
-        <img src="https://custom-icon-badges.demolab.com/badge/Under_Frost-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
+## Socials:
+<a align="left">
+        <a href="https://t.me/Under_Frost">
+                <img src="https://custom-icon-badges.demolab.com/badge/Under_Frost-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
+        </a>
+        <a href="https://discord.gg/S7YdgnZH">
+                <img src="https://custom-icon-badges.demolab.com/badge/Frost-7289da?style=for-the-badge&logo=discord&logoColor=white">
+        </a>
 </a>
 
 <hr>
 
 ## Languages and tools I know:
 <img alt="python" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="javascript" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="HTML" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img alt="CSS" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img alt="Linux" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karan, Frost on the internet.</h1>
 <h2 align="center">A learning noob developer from Bihar, India who is interested in Android development.</h2>
 
-- I'm currently a maintainer for veux at [VoltageOS](https://github.com/VoltageOS).
+- I'm currently a maintainer for veux at [Voltage OS](https://github.com/VoltageOS) and [BlissROMs](https://github.com/BlissRoms).
 
 <hr>
 

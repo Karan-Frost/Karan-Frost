@@ -23,6 +23,8 @@
 <hr>
 
 ## Languages and tools I know:
+<img alt="java" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img alt="c" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img alt="python" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="javascript" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="HTML" align="left" width="30rem" style="padding-right:5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
